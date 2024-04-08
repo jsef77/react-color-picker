@@ -1,6 +1,3 @@
-import Alert from "./components/Alert";
-import ListGroup from "./components/ListGroup";
-import Button from "./components/Button";
 import ColorPicker from "./components/ColorPicker";
 import { useState } from "react";
 
